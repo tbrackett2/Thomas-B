@@ -1,12 +1,10 @@
-# Navigating The Green Book
-
-Project: 
+# Project: 
 Navigating The Green Book
 
-Project Director(s): 
+# Project Director(s): 
 Brian Foo
 
-Project URL: 
+# Project URL: 
 http://publicdomain.nypl.org/greenbook-map/index.html
 
 ![The Green Book](https://tbrackett2.github.io/Thomas-B/images/greenbook.jpg)
