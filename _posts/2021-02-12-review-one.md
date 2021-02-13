@@ -17,6 +17,7 @@ Navigating the Green Book is a digital humanities project because this cite allo
 
 One of the coolest things that Brian Foo and is team implemented was the “Map a Trip” feature. To begin, the map of the U.S. is zoomed out to start, but as you click on the certain regions with a number inside of it. You will soon find out that you will discover smaller regions inside of your chosen destination. I can switch between a cluster view and a heatmap view, while also being able to switch the year from 1947 to 1956.
  
+![Travel Map](https://tbrackett2.github.io/Thomas-B/images/travelmap.jpg)
 
 If you decide to create a trip, it will automatically try to find food every 250 miles and lodging every 750 miles. As you can see, above I have created a trip from Los Angeles, California to Newport News, Virginia in 1947.
 The project is supported by The New York Public Library (NYPL) and is backed by the twenty-one different volumes of The Green Book that have been uploaded to the NYPL digital collection.
