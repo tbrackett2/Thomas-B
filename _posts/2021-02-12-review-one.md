@@ -9,7 +9,7 @@ Brian Foo
 Project URL: 
 http://publicdomain.nypl.org/greenbook-map/index.html
 
-(https://tbrackett2.github.io/Thomas-B/images/greenbook.jpg)
+![The Green Book](https://tbrackett2.github.io/Thomas-B/images/greenbook.jpg)
 
 Navigating The Green Book is an interactive travel and vacation guide with a map of the United States that allows you to plan a route and check out all of the previous data that has been found. The interactive map of the U.S. has over 796 different public addresses that include hotels, restaurants, bars, and gas stations. This project provides a great example of how African Americans had to travel in the mid 1950s to avoid confrontation. The first Green Book was published in 1936 and has data from places in Northern California to Texas, Southern Florida to Maine, and everywhere in between. This project by Brian Foo, allows us to understand the struggles that African Americans faced when it came to traveling domestically.
 
