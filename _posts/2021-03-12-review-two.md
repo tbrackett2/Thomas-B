@@ -19,7 +19,7 @@ Included towards the end of the project, after the credits and publications tab.
 
 ![OMAM Map](https://tbrackett2.github.io/Thomas-B/images/OMAMmap.jpg)
 
-The interactive map can be found by clicking on the “ArcGIS Online” link. When interacting with this map, you are able to change the year, county lines, and even see the heat maps were the Guerilla violence took place. The map does contain the historical data that Failka has mined and put into his past work, such as his Master’s thesis.
+The interactive map can be found by clicking on the [ArcGIS Online!](https://usg.maps.arcgis.com/home/webmap/viewer.html?webmap=9fed23d6e8cb42ccbf4bf6d0a2910fc3). When interacting with this map, you are able to change the year, county lines, and even see the heat maps were the Guerilla violence took place. The map does contain the historical data that Failka has mined and put into his past work, such as his Master’s thesis.
 
 The intended audience for this includes history students, professors, and anybody that has a keen knack or hobby for this kind of Civil War stuff. Failka does a good job of presenting a lot of old letters and notes from the past and combining that with maps that show true history. This is intriguing to me and I’m sure to my fellow peers that also may access this website.
 
