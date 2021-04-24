@@ -1,8 +1,11 @@
+
 ### Grant Process and Reflection:
 
 ### Grant Review
 
 The grant proposal we set out on was to create a cross-platform social media comparison site that would crunch the numbers for us. We plan on using a software intermediary called Application Programming Interface (API), in order to pull data from a social media site onto another. I have found the social media numbers for G2 Esports, Cloud9, and as well as Team Liquid from their respective platforms. It is actually quite fond to look at these Esports teams and to see the growing community is shocking and awesome at the same time.
+
+![grant1](https://user-images.githubusercontent.com/77949347/115945523-2f3e8280-a48a-11eb-9da8-fd1ea944e0bb.png)
 
 Our current project is actually nothing like our abstract submission. We proposed to do a grant proposal about a virtual tour of the Smithsonian in Washington, D.C.. My partner and I didn’t realize that we had to submit our own grant idea and not come up with something that hadn’t been created yet. Eric and I are super pumped at where we are currently at in the project stage.
 
